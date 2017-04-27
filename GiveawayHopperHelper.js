@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        GiveawayHopper Helper Alpha
 // @description Only group buttons
-// @version     0.1.1
+// @version     0.1.2
 // @author      L3n1n
 // @match       https://giveawayhopper.com/*
 // @updateURL   #
