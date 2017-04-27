@@ -2,7 +2,7 @@
 // @name        GiveawayHopper Helper Alpha
 // @namespace   https://github.com/L3n1n/GiveawayHopperHelper
 // @description Only group buttons
-// @version     0.1.4
+// @version     0.1.5
 // @author      L3n1n
 // @match       https://giveawayhopper.com/*
 // @updateURL   https://raw.githubusercontent.com/L3n1n/GiveawayHopperHelper/master/GiveawayHopperHelper.js
@@ -14,8 +14,18 @@
 (function() {
     $('.panel-body .col-md-12').each(function(){
         if ( $(this).find('.fa').hasClass("fa-steam") ) {}
-        else {
+        if ( $(this).find('.fa').hasClass("fa-twitter") ) {
             $(this).css('display', 'none');
         }
+        if ( $(this).find('.fa').hasClass("fa-facebook") ) {
+            $(this).css('display', 'none');
+        }
+        if ( $(this).find('.fa').hasClass("fa-instagram") ) {
+            $(this).css('display', 'none');
+        }
+        if ( $(this).find('.fa').hasClass("fa-link") ) {
+            $(this).css('display', 'none');
+        }
+        else {}
     });
 })();
