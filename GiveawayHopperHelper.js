@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name        GiveawayHopper Helper Alpha
+// @namespace   https://github.com/L3n1n/GiveawayHopperHelper
 // @description Only group buttons
-// @version     0.1.3
+// @version     0.1.4
 // @author      L3n1n
 // @match       https://giveawayhopper.com/*
 // @updateURL   https://raw.githubusercontent.com/L3n1n/GiveawayHopperHelper/master/GiveawayHopperHelper.js
