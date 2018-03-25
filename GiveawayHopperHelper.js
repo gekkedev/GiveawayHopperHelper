@@ -4,7 +4,7 @@
 // @description Only group buttons
 // @version     0.1.7
 // @author      L3n1n
-// @match       https://giveawayhopper.com/*
+// @match       https?://giveawayhopper.com/*
 // @updateURL   https://raw.githubusercontent.com/L3n1n/GiveawayHopperHelper/master/GiveawayHopperHelper.js
 // @downloadURL https://raw.githubusercontent.com/L3n1n/GiveawayHopperHelper/master/GiveawayHopperHelper.js
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
